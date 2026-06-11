@@ -1,3 +1,3 @@
 # SlimLinux
-A replacement for the Linux kernel, built in Rust. This kernel is slightly more lightweight compared to Linux's kernel
-because of our modular design. It provides compatibility with the soon coming WGC-R1.
+A replacement for the Linux kernel, fully built inside Rust. This kernel is slightly more lightweight compared to the traditional
+Linux kernel due to our modular design. It provides compatibility with the upcoming WGC-R1.
